@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple console-based Tic Tac Toe game implemented in Java. The game includes functionality for two human players and an option for a player to compete against the computer. The board size is customizable, allowing for various configurations beyond the classic 3x3 grid.
+A simple console-based Tic Tac Toe game implemented in Java. The game includes functionality for a player to compete against the computer. The board size is customizable, allowing for various configurations beyond the classic 3x3 grid.
 
 ## Features
 
